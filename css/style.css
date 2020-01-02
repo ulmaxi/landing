@@ -253,8 +253,9 @@ textarea {
 .btn.btn-default {
     padding: 12px 30px;
     font-size: 20px;
-    background-color: #cfcfcf;
+    background-color: #dbd4dd;
     transition: all .3s linear;
+    font-weight: 700;
 }
 
 .btn.btn-default:hover {
