@@ -74,6 +74,26 @@ img {
     max-width: 100%;
 }
 
+.img-circle{
+    border-radius: 50% !important;
+    margin-bottom:15px !important;
+}
+.fa-2x{
+    font-size: 2em !important;
+    padding-right: 6px !important;
+}
+.fa-fac{
+    color: rgb(52, 13, 126) !important;
+}
+.fa-twit{
+    color: rgb(34, 170, 224) !important;
+}
+.fa-you{
+    color: rgb(223, 14, 14) !important;
+}
+
+
+
 textarea {
     resize: vertical;
 }
